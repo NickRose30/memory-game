@@ -1,7 +1,7 @@
 .tile {
-    height: 100px;
-    min-width: 75px;
-    margin: 15px;
+    height: 115px;
+    min-width: 65px;
+    margin: 10px;
     flex: 0 9%;
     border: 10px solid gray;
     border-radius: 20px;
